@@ -37,7 +37,7 @@
 
 |名称|地址|
 |:--|:--|
-|clown|[基于 go 整理的一套服务管理器，规范服务接口，依赖关系，以及提供一些工具函数，方便项目初始化](https://github.com/longkui-clown/caricature)|
+|clown|[基于 go 整理的一套服务管理器，规范服务接口，依赖关系，以及提供一些工具函数，方便项目初始化](https://github.com/longkui-clown/clown)|
 |caricature|[知音漫客网站漫画爬取，python（斗破苍穹）](https://github.com/longkui-clown/caricature)|
   
 ### 关于我
